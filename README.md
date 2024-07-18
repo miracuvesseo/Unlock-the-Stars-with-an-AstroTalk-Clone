@@ -18,20 +18,14 @@ Types of Astrotalk Clones
 Top 10 Astrotalk Clones
 
 1. Keen: Offers various types of readings and a user-friendly interface.
-
-<a href="https://www.keen.com">  Keen</a>
-
-Pros: Wide range of services, experienced astrologers.
-
-Cons: Premium pricing.
+ <a href="https://www.keen.com">  Keen</a>
+ Pros: Wide range of services, experienced astrologers.
+ Cons: Premium pricing.
 
 2. Kasamba: Known for its detailed readings and expert astrologers.
-
-<a href="https://www.kasamba.com"> Kasamba.com</a>
-
-Pros: Expert astrologers, multiple communication options.
-
-Cons: Can be expensive.
+ <a href="https://www.kasamba.com"> Kasamba.com</a>
+ Pros: Expert astrologers, multiple communication options.
+ Cons: Can be expensive.
 
 3. Oranum: Focuses on video-based consultations.
 
