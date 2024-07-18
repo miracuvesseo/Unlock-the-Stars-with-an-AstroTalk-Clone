@@ -17,75 +17,61 @@ Types of Astrotalk Clones
 
 Top 10 Astrotalk Clones
 
-1. Keen: Offers various types of readings and a user-friendly interface.
- <a href="https://www.keen.com">  Keen</a>
- Pros: Wide range of services, experienced astrologers.
- Cons: Premium pricing.
+1. Keen: Offers various types of readings and a user-friendly interface. (<a href="https://www.keen.com">  Keen</a> )
 
-2. Kasamba: Known for its detailed readings and expert astrologers.
- <a href="https://www.kasamba.com"> Kasamba.com</a>
- Pros: Expert astrologers, multiple communication options.
- Cons: Can be expensive.
+Pros: Wide range of services, experienced astrologers.
 
-3. Oranum: Focuses on video-based consultations.
+Cons: Premium pricing.
 
-<a href="https://www.oranum.com"> Oranum</a>
+2. Kasamba: Known for its detailed readings and expert astrologers. (<a href="https://www.kasamba.com"> Kasamba.com</a> )
+
+Pros: Expert astrologers, multiple communication options.
+
+Cons: Can be expensive.
+
+3. Oranum: Focuses on video-based consultations. ( <a href="https://www.oranum.com"> Oranum</a> )
 
 Pros: Video consultations, diverse expert profiles.
 
 Cons: Higher cost for video calls.
 
-4. AstroSage: Comprehensive services including horoscopes and consultations.
-
-<a href="https://www.astrosage.com"> Astrosage</a>
+4. AstroSage: Comprehensive services including horoscopes and consultations. (<a href="https://www.astrosage.com"> Astrosage</a> )
 
 Pros: Free daily horoscopes, detailed reports.
 
 Cons: Some services are paid.
 
-5. GaneshaSpeaks: Popular in the Indian market with a wide range of services.
-
-<a href="https://www.ganeshaspeaks.com"> GaneshaSpeaks</a>
+5. GaneshaSpeaks: Popular in the Indian market with a wide range of services. ( <a href="https://www.ganeshaspeaks.com"> GaneshaSpeaks</a> )
 
 Pros: Trusted brand, various consultation options.
 
 Cons: Can be culturally specific.
 
-6. Psychic Source: Offers both psychic and astrological readings.
-
-<a href="https://www.psychicsource.com"> Psychic Source</a>
+6. Psychic Source: Offers both psychic and astrological readings. ( <a href="https://www.psychicsource.com"> Psychic Source</a> )
 
 Pros: Variety of experts, satisfaction guarantee.
 
 Cons: Cost can add up quickly.
 
-7. Astroyogi: Provides personalized consultations and horoscopes.
-
-<a href="https://www.astroyogi.com"> Astroyogi</a>
+7. Astroyogi: Provides personalized consultations and horoscopes. ( <a href="https://www.astroyogi.com"> Astroyogi</a> )
 
 Pros: Personalized services, affordable options.
 
 Cons: Quality varies among astrologers.
 
-8. AstroVed: Focuses on Vedic astrology and personalized rituals.
-
-<a href="https://www.astroved.com"> Astroved</a>
+8. AstroVed: Focuses on Vedic astrology and personalized rituals. ( <a href="https://www.astroved.com"> Astroved</a> )
 
 Pros: Unique Vedic rituals, comprehensive reports.
 
 Cons: Niche focus on Vedic astrology.
 
-9. The Astro Twins: Known for their celebrity clientele and accurate predictions.
-
-<a href="https://www.astrostyle.com"> The Astro Twins</a>
+9. The Astro Twins: Known for their celebrity clientele and accurate predictions. ( <a href="https://www.astrostyle.com"> The Astro Twins</a> )
 
 Pros: High-profile astrologers, insightful horoscopes.
 
 Cons: Limited availability for personal consultations.
 
-10. Chani Nicholas: Offers a holistic approach to astrology.
-
-<a href="https://www.chaninicholas.com"> Chani Nicholas</a>
+10. Chani Nicholas: Offers a holistic approach to astrology. ( <a href="https://www.chaninicholas.com"> Chani Nicholas</a> )
 
 Pros: Holistic guidance, inclusive approach.
 
